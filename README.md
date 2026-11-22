@@ -19,9 +19,10 @@ profile.kittinanx.com/api/view?uid=3127lpco5jandqyxzzxljhd3yesm&cover_image=true
 
 <p align="center">·</p>
 
-<p align="center">”  And I want a love that falls as fast
-As a body from the balcony
-And I wanna kiss like my heart is hitting the ground
-I'm holding my breath with a baseball bat
-Though I don't know what I'm waiting for
-I am not gonna be what my daddy wants me to be. “</p>
+
+<p align="center">”  And I want a love that falls as fast</p>
+<p align="center">”As a body from the balcony</p>
+<p align="center">”And I wanna kiss like my heart is hitting the ground</p>
+<p align="center">”I'm holding my breath with a baseball bat</p>
+<p align="center">”Though I don't know what I'm waiting for</p>
+<p align="center">”I am not gonna be what my daddy wants me to be. “</p>
