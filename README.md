@@ -3,4 +3,4 @@
 
 
 
-<p align="center">”  Beware of the man that stalk their prey。“</p>
+<p align="center">”  Beware of the man that stalk their prey, because you might be next. “</p>
